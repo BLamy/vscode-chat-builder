@@ -1,11 +1,8 @@
-# Cat Customs - Custom Editor API Samples
+# Chat Builder - Editor for gpt chat api
 
-![Paw draw editor ](documentation/example.png)
+![Chat Builder](documentation/example.png)
 
 Demonstrates VS Code's [custom editor API](https://code.visualstudio.com/api/extension-guides/custom-editors) using two custom editors:
-
-- Cat Scratch — Uses the finalized custom text editor api to provide a custom editor for `.cscratch` files (which are just json files)
-- Paw Draw - Uses the binary custom editor api to provide a custom editor for `.pawdraw` files (which are just png files with a different file extension).
 
 ## VS Code API
 
@@ -18,8 +15,8 @@ Demonstrates VS Code's [custom editor API](https://code.visualstudio.com/api/ext
 ## Running the example
 
 - Open this example in VS Code 1.46+
-- `npm install`
-- `npm run watch` or `npm run compile`
+- `pnpm install`
+- `pnpm run watch` or `pnpm run compile`
 - `F5` to start debugging
 
 Open the example files from the `exampleFiles` directory.
