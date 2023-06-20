@@ -2,7 +2,7 @@
 	"name": "chat-builder",
 	"displayName": "Chat Builder",
 	"description": "Custom Editor for openai chats",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "blamy",
 	"private": true,
 	"license": "MIT",
@@ -89,11 +89,12 @@
 		]
 	},
 	"scripts": {
-		"vscode:prepublish": "npm run compile",
-		"compile": "npm run build:css && tsc -p ./",
+		"vscode:prepublish": "yarn run compile",
+		"compile": "yarn run build:css && tsc -p ./",
 		"lint": "eslint \"src/**/*.ts\"",
 		"watch": "tsc -w -p ./",
-		"build:css": "postcss src/tailwind.css -o media/tailwind.css"
+		"build:css": "postcss src/tailwind.css -o media/tailwind.css",
+		"package": "vsce package --yarn"
 	},
 	"devDependencies": {
 		"@types/escape-html": "^1.0.2",
