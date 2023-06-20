@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "Write a short poem"
+  },
+  {
+    "role": "assistant",
+    "content": "In the meadow, soft and pure\nA gentle breeze whispers allure\nThe sun sets aflame the distant shore\nAs the day sighs, wanting no more\n\nMoonlit stars embroider the night\nCelestial wonders draped in twilight\nNature's orchestra chimes its tune\nAs the world dances 'neath the dappled moon"
+  }
+]

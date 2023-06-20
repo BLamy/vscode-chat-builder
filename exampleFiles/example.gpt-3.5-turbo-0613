@@ -1,0 +1,14 @@
+[
+  {
+    "role": "system",
+    "content": "Help the user"
+  },
+  {
+    "role": "user",
+    "content": "Tell me a joke"
+  },
+  {
+    "role": "assistant",
+    "content": "Sure, here's a classic one for you:\n\nWhy don't scientists trust atoms?\n\nBecause they make up everything!"
+  }
+]
