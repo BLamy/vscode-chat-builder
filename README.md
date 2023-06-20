@@ -2,7 +2,7 @@
 
 ![Chat Builder](documentation/example.png)
 
-Demonstrates VS Code's [custom editor API](https://code.visualstudio.com/api/extension-guides/custom-editors) using two custom editors:
+Demonstrates VS Code's [custom editor API](https://code.visualstudio.com/api/extension-guides/custom-editors) using openai.
 
 ## VS Code API
 
