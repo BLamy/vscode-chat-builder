@@ -2,7 +2,7 @@
 	"name": "chat-builder",
 	"displayName": "Chat Builder",
 	"description": "Custom Editor for openai chats",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"publisher": "blamy",
 	"private": true,
 	"license": "MIT",

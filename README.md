@@ -1,6 +1,6 @@
 # Chat Builder - Editor for gpt chat api
 
-![Chat Builder](documentation/example.png)
+![Chat Builder](https://i.imgur.com/G1aUMKQ.gif)
 
 Demonstrates VS Code's [custom editor API](https://code.visualstudio.com/api/extension-guides/custom-editors) using openai.
 
